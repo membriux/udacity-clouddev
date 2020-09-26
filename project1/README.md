@@ -1,4 +1,4 @@
-Website live --> d1gs6npw05wwcd.cloudfront.net/index.html
+Website live --> https://d1gs6npw05wwcd.cloudfront.net/index.html
 
 ## Steps to complete project
 
