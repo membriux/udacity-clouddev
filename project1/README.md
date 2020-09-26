@@ -1,5 +1,6 @@
-## Steps to complete project
+Website live --> d1gs6npw05wwcd.cloudfront.net/index.html
 
+## Steps to complete project
 
 1. Create S3 bucket
   ![](https://i.imgur.com/F9hh8k0.png)
